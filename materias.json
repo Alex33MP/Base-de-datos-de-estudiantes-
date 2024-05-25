@@ -1,0 +1,22 @@
+[
+    {
+        "codigo": "CAV1606",
+        "materia": "Computacion avanzada",
+        "uc": 5
+    },
+    {
+        "codigo": "MPC1606",
+        "materia": "Microprocesadores",
+        "uc": 5
+    },
+    {
+        "codigo": "MIC1606",
+        "materia": "Microondas",
+        "uc": 4
+    },
+    {
+        "codigo": "MAT1606",
+        "materia": "Matematica",
+        "uc": 5
+    }
+]
